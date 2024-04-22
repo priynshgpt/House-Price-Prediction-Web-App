@@ -1,5 +1,5 @@
 # House Price Prediction
-**A website where user can get an estimate price of a house at certain places in Mumbai by entering certain requirements of the user. <br />The website is connected to a Machine Learning model that is trained on a dataset containing prices of different property all across Mumbai.**
+**A website where user can get an estimate price of a house at certain places in USA by entering certain requirements of the user. <br />The website is connected to a Machine Learning model that is trained on a dataset containing prices of different property all across USA.**
 
 ## About the website:
 The website is a single page HTML coded frontend which is connected on the backend with the help of flask.
@@ -15,7 +15,7 @@ Components on the site:
      - Jogging Track
 
 ## About the model:
-The model has been trained on the dataset "[Housing Prices in Mumbai](https://www.kaggle.com/datasets/sameep98/housing-prices-in-mumbai)". The training algorithm in use is [RandomForestRegresson](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html).
+The model has been trained on the dataset "[Housing Prices in USA](https://www.kaggle.com/datasets/vedavyasv/usa-housing)". The training algorithm in use is [RandomForestRegresson](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html).
 The dataset was broken into **70/30** ratio with random state of 0.
 
 The model has an **R2_Score: 0.82**
