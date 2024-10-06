@@ -23,7 +23,7 @@ Following libraries are required:
 
 ## ScreenShots:
 ### Home:
-
+<p> <img src = "templates/Picture1.jpg" height="700"></p><br>
 
 ### Prediction:
 
