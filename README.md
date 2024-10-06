@@ -23,7 +23,9 @@ Following libraries are required:
 
 ## ScreenShots:
 ### Home:
-<p> <img src = "templates/Picture1.jpg" height="700"></p><br>
+<p> <img src = "templates/Picture1.jpg" height="700">    <img src = "templates/Picture2.jpg" height="700"> </p><br>
 
 ### Prediction:
+
+<p> <img src = "templates/Picture3.jpg" height="700">    <img src = "templates/Picture4.jpg" height="700"> </p><br>
 
