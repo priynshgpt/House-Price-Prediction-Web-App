@@ -8,11 +8,6 @@ Components on the site:
 1. Location of the property (Drop-Down)
 2. Area in Sq/Ft (Input)
 3. No. of Bedrooms (Input)
-4. Toggle Buttons
-     - Gymnasium
-     - Car Parking
-     - Indoor Games
-     - Jogging Track
 
 ## About the model:
 The model has been trained on the dataset "[Housing Prices in USA](https://www.kaggle.com/datasets/vedavyasv/usa-housing)". The training algorithm in use is [RandomForestRegresson](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html).
