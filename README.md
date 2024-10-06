@@ -1,4 +1,4 @@
-# House Price Prediction
+# House Price Prediction with Machine Learning
 **A website where user can get an estimate price of a house at certain places in USA by entering certain requirements of the user. <br />The website is connected to a Machine Learning model that is trained on a dataset containing prices of different property all across USA.**
 
 ## About the website:
@@ -13,7 +13,6 @@ Components on the site:
 The model has been trained on the dataset "[Housing Prices in USA](https://www.kaggle.com/datasets/vedavyasv/usa-housing)". The training algorithm in use is [RandomForestRegresson](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html).
 The dataset was broken into **70/30** ratio with random state of 0.
 
-The model has an **R2_Score: 0.82**
 
 ## Requirements: 
 Following libraries are required:
