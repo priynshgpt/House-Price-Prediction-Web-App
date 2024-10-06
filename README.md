@@ -10,7 +10,7 @@ Components on the site:
 3. No. of Bedrooms (Input)
 
 ## About the model:
-The model has been trained on the dataset "[Housing Prices in USA](https://www.kaggle.com/datasets/vedavyasv/usa-housing)". The training algorithm in use is [RandomForestRegresson](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html).
+The model has been trained on the dataset "[Housing Prices in USA](https://www.kaggle.com/datasets/vedavyasv/usa-housing)". The training algorithm in use is [LinearRegresson](https://scikit-learn.org/dev/modules/generated/sklearn.linear_model.LinearRegression.html).
 The dataset was broken into **70/30** ratio with random state of 0.
 
 
@@ -20,6 +20,7 @@ Following libraries are required:
 2. Pandas
 3. Flask
 4. Numpy
+5. Django
 
 ## ScreenShots:
 ### Home:
